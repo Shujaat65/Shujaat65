@@ -1,0 +1,15 @@
+
+        #first {
+background-color: aqua;
+        }
+        #second{
+            background-color: brown;
+        }
+        .red{
+            background-color: red;
+
+        }
+        .bg-blue {
+            background-color: rgb(255, 251, 0);
+color: rgb(101, 173, 0);
+        }
